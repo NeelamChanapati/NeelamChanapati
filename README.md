@@ -1,8 +1,3 @@
-<style>
-  .Black{
-          background-color: black;
-  }
-</style>
 <h1 align="center">Hi 👋, I'm Neelam Chanapati</h1>
 <h3 align="center">I prefer coding instead of talking</h3>
 
@@ -36,3 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelamchanapati&show_icons=true&locale=en" alt="neelamchanapati" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelamchanapati&label=Profile%20views&color=0e75b6&style=flat" alt="neelamchanapati" /> </p>
+</html>
