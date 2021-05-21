@@ -11,7 +11,7 @@
 
 - ✔ Quote that I love **Simplicity is prerequisite for reliability**
 
-- 💬 Ask me about **Python Programming**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me <a href="neelam.chanapati@gmail.com" target="blank">Gmail</a>
 
