@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neelam Chanapati</h1>
+<h1 align="center">Hi 👋 I'm Neelam Chanapati</h1>
 <h3 align="center">I prefer coding instead of talking</h3>
 
 - 🔭 I’m currently working on **Data science projects and Flask web frame work**
