@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋 I'm Neelam Chanapati</h1>
-<h3 align="center">I prefer coding instead of talking</h3>
-<!--
+<!-- <h3 align="center">I prefer coding instead of talking</h3>
+
 - 🔭 I’m currently working on **Data science projects and DJango web frame work**
 
 - 🌱 I’m currently learning **Flask**
