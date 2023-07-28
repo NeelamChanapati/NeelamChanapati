@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋 I'm Neelam Chanapati</h1>
-<!-- <h2 align="center">I prefer coding instead of talking</h2>
+<h2 align="center">I prefer coding instead of talking</h2>
 
 - 🔭 I’m currently working on **Data science projects and DJango web frame work**
 
